@@ -1,0 +1,12 @@
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/KouroshAlinaghi/EPS-CA1
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/KouroshAlinaghi/EPS-CA2
+[submodule "CA0"]
+	path = CA0
+	url = https://github.com/KouroshAlinaghi/EPS-CA0
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/KouroshAlinaghi/EPS-CA3
